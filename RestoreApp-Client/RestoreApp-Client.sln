@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoreApp-Client", "RestoreApp-Client\RestoreApp-Client.csproj", "{69D6B2B7-61B7-46F9-8EC0-45E335F759FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D6B2B7-61B7-46F9-8EC0-45E335F759FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D6B2B7-61B7-46F9-8EC0-45E335F759FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D6B2B7-61B7-46F9-8EC0-45E335F759FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D6B2B7-61B7-46F9-8EC0-45E335F759FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C321C509-7D7C-4C57-AF98-FB611B38B55E}
+	EndGlobalSection
+EndGlobal
